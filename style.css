@@ -21,9 +21,11 @@ div.blue {
   background-color: #1B3CE1;
 }
 div.green {
-background-color: #1BFF6F;
+  background-color: #1BFF6F;
 }
-
+div.pink {
+  background-color: #F921E1;
+}
 .invisible {
   display: none;
 }
